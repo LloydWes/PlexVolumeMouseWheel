@@ -9,7 +9,6 @@
 // @match        https://app.plex.tv/
 // @match        https://plex.tv/
 // @license MIT
-// @grant        none
 // ==/UserScript==
 
 (function() {
